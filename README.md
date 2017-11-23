@@ -1,3 +1,3 @@
 ﻿# NodeJS e MongoDB.
 
-## Aplicações com NodeJS e MongoDB.
+## Projetos com NodeJS e MongoDB.
